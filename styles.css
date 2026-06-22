@@ -5,6 +5,7 @@ body {
     display: flex;
     flex-direction: column;
     margin: 0;
+    
 }
 
 .header {
@@ -104,4 +105,10 @@ div .picture {
 
  .hero-photo {
     width: 300px;
+}
+
+.content {
+    width: 1000px;
+    display: flex;
+    justify-content: space-between;
 }

@@ -68,11 +68,11 @@ h2 {
     align-items: center;
 }
 
-img {
+.cat img {
     width: 150px;
 }
 
-.picture {
+div .picture {
     border: 3px;
     border-color: #3882f6;
 }
@@ -100,4 +100,8 @@ img {
     color: #1f2937;
     font-weight: 900;
     text-align: right;
+}
+
+ .hero-photo {
+    width: 300px;
 }

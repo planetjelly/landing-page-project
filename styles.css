@@ -10,7 +10,7 @@ body {
 
 .header {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     background-color: #1f2937;
 }
 
@@ -34,7 +34,8 @@ li a {
 
 .section-1 {
     background-color: #1f2937;
-    display: flex;  
+    display: flex;
+    justify-content: center;
 }
 
 .hero-text {
@@ -104,11 +105,21 @@ div .picture {
 }
 
  .hero-photo {
-    width: 300px;
+    width: 500px;
+
 }
 
-.content {
+.header-content {
     width: 1000px;
     display: flex;
     justify-content: space-between;
+}
+
+.hero {
+    width: 1000px; 
+}
+
+.container-1 {
+    width: 1000px;
+    display: flex;
 }

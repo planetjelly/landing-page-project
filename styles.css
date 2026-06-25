@@ -139,3 +139,57 @@ li a {
     display: flex;
     gap: 15px;
 }
+
+.section-4 {
+    display: flex;
+    justify-content: center;
+}
+
+.sign-up-box {
+    display: flex;
+    background-color: #3882f6;
+    box-sizing: border-box;
+    padding: 30px;
+    width: 1000px;
+    justify-content: space-around;
+    margin: 75px;
+    border-radius: 15px;
+}
+
+.sign-up-header {
+    font-size: 24px;
+    color: #e5e7eb;
+}
+
+.sign-up-text {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.button-1 {
+    background-color: #3882f6;
+    color: #e5e7eb;
+    border: #3882f6;
+    border-radius: 10px;
+    width: 150px;
+    padding: 10px;
+}
+
+.button-2 {
+    background-color: #3882f6;
+    color: #e5e7eb;
+    border:2px solid #e5e7eb;
+    border-radius: 10px;
+    width: 150px;
+    padding: 10px;
+}
+
+.footer {
+    background-color: #1f2937;
+    text-align: center;
+}
+
+.bottom-text {
+    color: #e5e7eb;
+    padding: 25px;
+}

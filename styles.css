@@ -55,19 +55,19 @@ li a {
     justify-content: center;
 }
 
-.testers {
-    width: 1000px;
-    display: flex;
-    justify-content: column;
-}
-
 .tester-text {
     text-align: center;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+    margin: 50px;
 }
 
 .cat-container {
     display: flex;
     width: 1000px;
+    justify-content: space-around;
+    margin: 50px;
 }
 
 .cat {
@@ -79,12 +79,11 @@ li a {
 
 .cat img {
     width: 150px;
+    border: 3px solid #3882f6;
+    border-radius: 15px;
 }
 
-div .picture {
-    border: 3px;
-    border-color: #3882f6;
-}
+
 
 .description {
     font-size: 18px;
